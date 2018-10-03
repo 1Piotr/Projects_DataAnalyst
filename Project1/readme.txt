@@ -1,1 +1,1 @@
-Project exploring the global and London weather trends during 250 year period
+Introductory, project exploring the global and London weather trends during 250 year period
